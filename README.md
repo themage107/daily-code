@@ -1,2 +1,2 @@
 # daily-code
- Daily code tests
+ Daily code tests from real world problems
