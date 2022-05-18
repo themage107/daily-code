@@ -9,7 +9,7 @@ public class Program
 	// For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 	// Bonus: Can you do this in one pass?
 
-	/** JavaScript Solution **/
+	/** C# Solution **/
 	
 	
 	public int[] numbersArray = new int[] {10, 15, 3, 7};
@@ -48,4 +48,4 @@ public class Program
 	
 }
 
-/** End JS Solution **/
+/** End C# Solution **/
