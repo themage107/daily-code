@@ -14,7 +14,7 @@ let arrayUpdatedValsNoDivision = [];
 
 function productArraySansPos(aParam){
 
-	// so we have the value set at 1, could also set the loop to have an if i == 0, it's just i value
+	// so we have the value set at 1, could also set the first loop to have an if i == 0, it's just i value
 	let totalVal = aParam[0];
 
 	// start at one since it's included already
