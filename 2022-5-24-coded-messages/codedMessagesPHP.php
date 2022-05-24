@@ -15,7 +15,7 @@ For example, '001' is not allowed.
 
 /***** PHP Solution *****/
 
-$message = "120"; // should have 7 decodes: (1(a), 2(b), 3(c)), (12(al), 3(c)), (1(a), 23(w))
+$message = "120"; // should have 2 decodes: (1(a), 20(t))
 $numberMessages = 0;
 
 function decodeMessage($messageParam, $numberMessagesParam){

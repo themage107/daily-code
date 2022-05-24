@@ -13,7 +13,7 @@ For example, '001' is not allowed.
 
 /***** JS Solution *****/
 
-const message = "711"; // should have 7 decodes: (1(a), 2(b), 3(c)), (12(al), 3(c)), (1(a), 23(w))
+const message = "123"; // should have 7 decodes: (1(a), 2(b), 3(c)), (12(al), 3(c)), (1(a), 23(w))
 let numberMessages = 0;
 
 function decodeMessage(messageParam, numberMessagesParam){
